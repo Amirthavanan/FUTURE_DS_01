@@ -8,9 +8,9 @@ DATASET:
 <a href="https://www.kaggle.com/datasets/mathchi/online-retail-ii-data-set-from-ml-repository"></a>
 
 QUESTIONS:
-1.) What are the best-selling products?
-2.) When do sales peak during the year?
-3.) Which categories or regions bring the most revenue?
+1.) What are the best-selling products?<br>
+2.) When do sales peak during the year?<br>
+3.) Which categories or regions bring the most revenue?<br>
 
 DASHBOARD:
 <img src="data/1.png">
