@@ -5,14 +5,14 @@ Sales Analysis - POWER BI
 To analyze the data and put together a report to help the company to drive more insughts, sales and work more efficiently.
 
 <h2>DATASET:</h2>
-<a href="https://www.kaggle.com/datasets/mathchi/online-retail-ii-data-set-from-ml-repository"></a>
+<a href="https://www.kaggle.com/datasets/mathchi/online-retail-ii-data-set-from-ml-repository">Dataset Link</a>
 
 <h2>QUESTIONS:</h2>
 1.) What are the best-selling products?<br>
 2.) When do sales peak during the year?<br>
 3.) Which categories or regions bring the most revenue?<br>
 
-<h2>DASHBOARD:</h2>h2
+<h2>DASHBOARD:</h2>
 <img src="data/1.png">
 <img src="data/2.png">
 <img src="data/3.png">
