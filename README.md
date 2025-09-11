@@ -13,13 +13,15 @@ QUESTIONS:
 3.) Which categories or regions bring the most revenue?
 
 DASHBOARD:
-
+<img src="">
 FINDINGS:
 
-<OL>Generated $227K revenue from 2K orders and 131K+ items sold
-Identified top-performing product (Paper Craft, Little Birdie) contributing $168K+ alone
-Found strong seasonal peaks in January & November, reflecting customer demand cycles
-Discovered that a few SKUs drive the majority of sales (Pareto principle in action)
-Visualized revenue by country to highlight key European markets</OL>
+<OL>
+  <LI>Generated $227K revenue from 2K orders and 131K+ items sold</LI>
+  <LI>Identified top-performing product (Paper Craft, Little Birdie) contributing $168K+ alone</LI>
+  <LI>Found strong seasonal peaks in January & November, reflecting customer demand cycles</LI>
+  <LI>Discovered that a few SKUs drive the majority of sales (Pareto principle in action)</LI>
+  <LI>Visualized revenue by country to highlight key European marketS</LI>
+</OL>
 
 
