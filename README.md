@@ -1,7 +1,7 @@
 # FUTURE_DS_01
 Sales Analysis - POWER BI 
 
-OBJECTIVE:
+<h1>OBJECTIVE:</h1>
 To analyze the data and put together a report to help the company to drive more sales and work more efficiently.
 
 DATASET:
