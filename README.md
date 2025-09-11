@@ -13,7 +13,10 @@ QUESTIONS:
 3.) Which categories or regions bring the most revenue?
 
 DASHBOARD:
-<img src="">
+<img src="data/1.png">
+<img src="data/2.png">
+<img src="data/3.png">
+
 FINDINGS:
 
 <OL>
