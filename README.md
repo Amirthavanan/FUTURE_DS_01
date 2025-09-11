@@ -1,24 +1,24 @@
 # FUTURE_DS_01
 Sales Analysis - POWER BI 
 
-<h1>OBJECTIVE:</h1>
-To analyze the data and put together a report to help the company to drive more sales and work more efficiently.
+<h2>OBJECTIVE:</h2>
+To analyze the data and put together a report to help the company to drive more insughts, sales and work more efficiently.
 
-DATASET:
+<h2>DATASET:</h2>
 <a href="https://www.kaggle.com/datasets/mathchi/online-retail-ii-data-set-from-ml-repository"></a>
 
-QUESTIONS:
+<h2>QUESTIONS:</h2>
 1.) What are the best-selling products?<br>
 2.) When do sales peak during the year?<br>
 3.) Which categories or regions bring the most revenue?<br>
 
-DASHBOARD:
+<h2>DASHBOARD:</h2>h2
 <img src="data/1.png">
 <img src="data/2.png">
 <img src="data/3.png">
 
-FINDINGS:
-
+<h2>FINDINGS:</h2>
+<br>
 <OL>
   <LI>Generated $227K revenue from 2K orders and 131K+ items sold</LI>
   <LI>Identified top-performing product (Paper Craft, Little Birdie) contributing $168K+ alone</LI>
